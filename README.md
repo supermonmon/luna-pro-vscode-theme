@@ -1,6 +1,3 @@
-<p align="center">
-  <img alt="Halcyon Logo" src="https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/logo.png" width="100" />
-</p>
 <h1 align="center">
   Luna Dark Pro Theme For VSCode
 </h1>
