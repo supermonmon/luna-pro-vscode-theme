@@ -5,7 +5,7 @@
   A premium Visual Studio Code theme designed to minimize distractions.
 </p>
 
-![demo](snapshot.jpg)
+![demo](https://github.com/supermonmon/luna-dark-pro-vscode-theme/blob/main/snapshot.jpg)
 
 ## Installation via VS Code
 
