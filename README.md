@@ -5,6 +5,8 @@
   A premium Visual Studio Code theme designed to minimize distractions.
 </p>
 
+![demo](snapshot.jpg)
+
 ## Installation via VS Code
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
