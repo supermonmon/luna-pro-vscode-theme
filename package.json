@@ -1,0 +1,36 @@
+{
+  "name": "luna-dark-pro",
+  "displayName": "Luna Theme Pro",
+  "description": "Luna Dark Pro is a premium Visual Studio Code theme designed to minimize distractions.",
+  "publisher": "supermon",
+  "keywords": [
+    "theme",
+    "dark",
+    "minimal",
+    "pro",
+    "black",
+    "luna",
+    "luna dark pro",
+    "luna dark",
+    "supermon",
+    "luna theme",
+    "luna theme pro",
+    "luna pro"
+  ],
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Luna Dark Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Luna Dark Pro-color-theme.json"
+      }
+    ]
+  }
+}
