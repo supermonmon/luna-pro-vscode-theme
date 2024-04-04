@@ -1,6 +1,6 @@
 {
-  "name": "luna-pro-theme",
-  "displayName": "Luna Pro Theme",
+  "name": "luna-pro-themes",
+  "displayName": "Luna Pro Themes",
   "description": "Immerse yourself in a focused coding environment. This customizable theme offers a serene atmosphere, perfect for maximizing your productivity. Inspired by the clean aesthetics of Project IDX",
   "publisher": "supermon",
   "icon": "logo.jpeg",
@@ -14,12 +14,9 @@
   },
   "keywords": [
     "theme",
-    "dark",
     "minimal",
     "pro",
-    "black",
     "luna",
-    "luna dark pro",
     "luna dark",
     "supermon",
     "luna theme",
