@@ -5,9 +5,11 @@
   A premium Visual Studio Code theme designed to minimize distractions.
 </p>
 
-![demo](snapshot.jpg)
+## Luna Pro Midnight
+![demo](luna-pro-midnight.jpg_large)
 
-## Installation via VS Code
+## Luna Pro Starlight
+![demo](luna-pro-starlight.jpg_large)
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 2. Search for `Luna Dark Pro`
